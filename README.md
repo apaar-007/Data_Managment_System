@@ -11,4 +11,5 @@ to maintain record properly.
  -Commit and Push
  -Enjoy!!!
 # Preview
-[![Program Preview](Preview/Programe.PNG)]()
+
+[![Program Preview](Preview/Programe.PNG)](main.c)
