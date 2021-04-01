@@ -14,4 +14,4 @@ to maintain record properly. <br />
 This is a sample of program running <br />
 [![Program Preview](Preview/Program.PNG)](main.c) <br />
 This is a preview of File which will be created <br />
-[![Program Preview](Preview/Created%20Text%20File.PNG)]()
+[![Program Preview](Preview/Created%20Text%20File.PNG)](Preview/CodetoContribute.txt)
