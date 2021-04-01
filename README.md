@@ -11,5 +11,7 @@ to maintain record properly.
  -Commit and Push
  -Enjoy!!!
 # Preview
-
+This is a sample of program running
 [![Program Preview](Preview/Programe.PNG)](main.c)
+This is a preview of File which will be created
+[![Program Preview](Preview/Created%20Text%20File.PNG)]()
